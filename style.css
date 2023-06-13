@@ -1,0 +1,64 @@
+main {
+    background-color: aliceblue;
+    font-family: 'Lora' , serif;
+}
+
+.container-one {
+    background-color: #00ADAD;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.container-two {
+    display: grid;
+    background-color: #9E5C2B;
+}
+
+.container-three {
+    display: grid;
+    background-color: #9E5C2B;
+}
+
+.container-four {
+    display: grid;
+    background-color: #9E5C2B;
+}
+
+.container-five {
+    display: grid;
+    background-color: #9E5C2B;
+}
+
+.container-six {
+    display: grid;
+    background-color: #9E5C2B;
+}
+
+.container-seven {
+    display: grid;
+    background-color: #9E5C2B;
+}
+
+.container-eight {
+    display: grid;
+    background-color: #9E5C2B;
+}
+
+img {
+    float: right;
+}
+
+.container-one hr {
+    border: dotted #9E5C2B 10px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+@media (min-width:600px) {
+    main {
+        background-color: white;
+    }
+}
